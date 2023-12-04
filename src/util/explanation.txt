@@ -1,0 +1,1 @@
+if multiple domains have a same functino, then define that function here instead of defining it again and again.
